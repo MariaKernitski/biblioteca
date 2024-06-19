@@ -1,5 +1,5 @@
-# biblioteca
-Esta é uma biblioteca virtual simples!
+# Biblioteca
+✿ Esta é uma biblioteca virtual simples!
 Estas são algumas das funções que ela possuí:
 
 1° Adicionar livros!
